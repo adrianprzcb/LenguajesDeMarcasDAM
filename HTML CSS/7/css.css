@@ -1,0 +1,24 @@
+table, td, tr, th{
+	 border-width: 1px;
+	 border-color: black;
+	 border-style: solid;
+	 border-collapse: collapse;
+}
+.fol{
+	background-color:red;
+}
+.prog{
+background-color:green;
+}
+.lm{
+background-color:pink;
+}
+.endex{
+background-color:purple;
+}
+.bd{
+background-color:blue;
+}
+.si{
+background-color:yellow;
+}

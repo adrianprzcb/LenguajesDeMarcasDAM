@@ -1,0 +1,15 @@
+.foto1{
+	display:block;
+	margin:auto;
+}
+br{
+	clear:both;
+}
+.foto2{
+	  float: right;
+
+}
+.fondo{
+	width: 100%;
+	height: 100%;
+}

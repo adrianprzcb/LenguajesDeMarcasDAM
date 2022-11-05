@@ -1,0 +1,27 @@
+.mo:visited{
+	color:yellow;
+}
+a:link {
+  color: #0439EF;
+}
+a:visited{
+	color: purple;
+}
+a:hover{
+	color: #00F7FF;
+	font-size: 14px;
+	background-color: yellow;
+
+}
+a:active{
+	color:red;
+		font-size: 14px;
+	background-color: yellow;
+}
+a:visited{
+		color: purple;
+	
+}
+.mo:visited{
+	color:yellow;
+}

@@ -1,0 +1,27 @@
+h1{
+text-shadow: gray 6px 0;
+
+}
+hr{
+	height: 10px;
+  background-color: red;
+
+}
+.p1{
+	column-count: 2;
+	text-align: justify;
+	 line-height: 200%;
+	 column-gap: 20%;
+	
+}
+.p2{
+	 text-transform: uppercase;
+	column-count: 2;
+	text-align: justify;
+	 line-height: 200%;
+	 column-gap: 20%;
+	 column-rule-width: 10px;
+	 column-rule-color: yellow;
+	 column-rule-style: dotted;
+	
+}

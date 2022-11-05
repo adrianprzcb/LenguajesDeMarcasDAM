@@ -1,0 +1,51 @@
+body{
+
+  font-family:courier,arial,helvética;
+  background-color: #36838A;
+  background-image: url("descarga.jpg")
+}
+form{
+  width:300px;
+  padding:16px;
+  border-radius:10px;
+  margin:auto;
+  background-color: #49B2BB;
+    border-style: ridge;
+
+}
+h1 {
+  text-align: center;
+
+}
+
+.btn {
+  color: #0099CC;
+background: transparent;
+border: 2px solid #0099CC;
+border-radius: 4px;
+border: none;
+      color: white;
+      padding: 12px 12px;
+      text-align: center;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      -webkit-transition-duration: 0.4s; /* Safari */
+      transition-duration: 0.4s;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+      background-color: black;
+}
+
+}
+.btn:hover {
+      background-color: #008CBA;
+      color: white;
+ }
+ h1{
+  background-color: #37C7D4;
+  margin-left: 350px;
+  margin-right: 350px;
+  border-style: ridge;
+ }
